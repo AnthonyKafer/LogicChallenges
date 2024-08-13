@@ -3,9 +3,9 @@
   *Reproduce the following array methods:*
 
 - [x] Map | [[ArrayMethods/Map.ts]]
-- [ ] Every | [[ArrayMethods/Every.ts]]  
-- [ ] Some | [[ArrayMethods/Some.ts]]  
-- [ ] Reduce | [[ArrayMethods/Reduce.ts]]  
+- [x] Every | [[ArrayMethods/Every.ts]]  
+- [x] Some | [[ArrayMethods/Some.ts]]  
+- [x] Reduce | [[ArrayMethods/Reduce.ts]]  
 - [ ] Foreach | [[ArrayMethods/Foreach.ts]]  
 - [x] Find | [[ArrayMethods/Find.ts]]  
 - [ ] Pop | [[ArrayMethods/Pop.ts]]  
@@ -16,7 +16,5 @@
 - [ ] Sort | [[ArrayMethods/Sort.ts]]  
 - [ ] Splice | [[ArrayMethods/Splice.ts]]  
 - [ ] Reverse | [[ArrayMethods/Reverse.ts]]
-
-
 
 *Extension: https://marketplace.visualstudio.com/items?itemName=jonathan-yeung.mark-sharp*
