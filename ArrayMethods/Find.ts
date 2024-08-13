@@ -4,7 +4,7 @@ const myFind = (func, arr)=>{
         
     let check = func(arr[i])
   
-    if(check === true){
+    if(check){
         return arr[i]
     }
 }

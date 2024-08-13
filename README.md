@@ -13,7 +13,10 @@
 - [ ] Shift | [[ArrayMethods/Shift.ts]]  
 - [ ] Unshift | [[ArrayMethods/Unshift.ts]]  
 - [ ] Slice | [[ArrayMethods/Slice.ts]]  
-- [ ] Sort | [[ArrayMethods/Sort.ts]]  safsf
+- [ ] Sort | [[ArrayMethods/Sort.ts]]  
 - [ ] Splice | [[ArrayMethods/Splice.ts]]  
+- [ ] Reverse | [[ArrayMethods/Reverse.ts]]
+
+
 
 *Extension: https://marketplace.visualstudio.com/items?itemName=jonathan-yeung.mark-sharp*
