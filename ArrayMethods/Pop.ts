@@ -1,7 +1,7 @@
 const myPop = (arr)=>{
     const removed = arr[arr.length -1]
     arr = arr[arr. length --]
-    return arr || removed
+    return removed
 }
 
 
