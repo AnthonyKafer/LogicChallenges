@@ -17,4 +17,7 @@
 - [ ] Splice | [[ArrayMethods/Splice.ts]]  
 - [ ] Reverse | [[ArrayMethods/Reverse.ts]]
 
+*Extra:*
+- [ ] PesquisaBinaria | [[ArrayMethods/PesquisaBinaria.ts]]
+
 *Extension: https://marketplace.visualstudio.com/items?itemName=jonathan-yeung.mark-sharp*
