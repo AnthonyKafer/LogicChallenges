@@ -10,7 +10,7 @@
 - [x] Find | [[ArrayMethods/Find.ts]]  
 - [x] Pop | [[ArrayMethods/Pop.ts]]  
 - [x] Push | [[ArrayMethods/Push.ts]]  
-- [ ] Shift | [[ArrayMethods/Shift.ts]]  
+- [x] Shift | [[ArrayMethods/Shift.ts]]  
 - [ ] Unshift | [[ArrayMethods/Unshift.ts]]  
 - [ ] Slice | [[ArrayMethods/Slice.ts]]  
 - [ ] Sort | [[ArrayMethods/Sort.ts]]  
