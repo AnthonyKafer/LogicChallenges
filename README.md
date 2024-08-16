@@ -15,7 +15,7 @@
 - [ ] Slice | [[ArrayMethods/Slice.ts]]  
 - [ ] Sort | [[ArrayMethods/Sort.ts]]  
 - [ ] Splice | [[ArrayMethods/Splice.ts]]  
-- [ ] Reverse | [[ArrayMethods/Reverse.ts]]
+- [x] Reverse | [[ArrayMethods/Reverse.ts]]
 
 *Extra:*
 
