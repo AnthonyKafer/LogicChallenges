@@ -12,7 +12,7 @@
 - [x] Push | [[ArrayMethods/Push.ts]]  
 - [x] Shift | [[ArrayMethods/Shift.ts]]  
 - [x] Unshift | [[ArrayMethods/Unshift.ts]]  
-- [ ] Slice | [[ArrayMethods/Slice.ts]]  
+- [x] Slice | [[ArrayMethods/Slice.ts]]  
 - [ ] Sort | [[ArrayMethods/Sort.ts]]  
 - [ ] Splice | [[ArrayMethods/Splice.ts]]  
 - [x] Reverse | [[ArrayMethods/Reverse.ts]]
