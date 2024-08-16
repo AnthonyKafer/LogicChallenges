@@ -15,7 +15,7 @@ const mySlice = (arr, start, end) => {
     let c = 0;
     for (let i = 0; i < arr.length - start; i++) {
       slicedArr[i] = arr[start + c];
-
+      
       c++;
       slicedArr.length--;
     }
