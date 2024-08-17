@@ -2,23 +2,23 @@
 
   *Reproduce the following array methods:*
 
-- [x] Map | [[ArrayMethods/Map.ts]]
-- [x] Every | [[ArrayMethods/Every.ts]]  
-- [x] Some | [[ArrayMethods/Some.ts]]  
-- [ ] Reduce | [[ArrayMethods/Reduce.ts]]  
-- [x] Foreach | [[ArrayMethods/Foreach.ts]]  
-- [x] Find | [[ArrayMethods/Find.ts]]  
-- [x] Pop | [[ArrayMethods/Pop.ts]]  
-- [x] Push | [[ArrayMethods/Push.ts]]  
-- [x] Shift | [[ArrayMethods/Shift.ts]]  
-- [x] Unshift | [[ArrayMethods/Unshift.ts]]  
-- [x] Slice | [[ArrayMethods/Slice.ts]]  
-- [ ] Sort | [[ArrayMethods/Sort.ts]]  
-- [ ] Splice | [[ArrayMethods/Splice.ts]]  
-- [x] Reverse | [[ArrayMethods/Reverse.ts]]
+- [x] Map | [[ArrayMethods/Map.js]]
+- [x] Every | [[ArrayMethods/Every.js]]  
+- [x] Some | [[ArrayMethods/Some.js]]  
+- [ ] Reduce | [[ArrayMethods/Reduce.js]]  
+- [x] Foreach | [[ArrayMethods/Foreach.js]]  
+- [x] Find | [[ArrayMethods/Find.js]]  
+- [x] Pop | [[ArrayMethods/Pop.js]]  
+- [x] Push | [[ArrayMethods/Push.js]]  
+- [x] Shift | [[ArrayMethods/Shift.js]]  
+- [x] Unshift | [[ArrayMethods/Unshift.js]]  
+- [x] Slice | [[ArrayMethods/Slice.js]]  
+- [ ] Sort | [[ArrayMethods/Sort.js]]  
+- [ ] Splice | [[ArrayMethods/Splice.js]]  
+- [x] Reverse | [[ArrayMethods/Reverse.js]]
 
 *Extra:*
 
-- [ ] PesquisaBinaria | [[ArrayMethods/PesquisaBinaria.ts]]
+- [ ] PesquisaBinaria | [[ArrayMethods/PesquisaBinaria.js]]
 
 *Extension: https://marketplace.visualstudio.com/items?itemName=jonathan-yeung.mark-sharp*

@@ -1,5 +1,5 @@
-const myMap = function received<T>(arr: T[], func:(item: T, index: number, arr: T[])=> unknown ) {
-  const newArr: ReturnType<typeof func>[] = [];
+const myMap = (arr, func) => {
+  const newArr = [];
 
   for (let i = 0; i < arr.length; i++) {
     newArr[i] = func(arr[i], i, arr);
