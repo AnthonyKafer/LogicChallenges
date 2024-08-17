@@ -14,8 +14,10 @@
 - [x] Unshift | [[ArrayMethods/Unshift.js]]  
 - [x] Slice | [[ArrayMethods/Slice.js]]  
 - [ ] Sort | [[ArrayMethods/Sort.js]]  
-- [ ] Splice | [[ArrayMethods/Splice.js]]  
+- [x] Splice | [[ArrayMethods/Splice.js]]  
 - [x] Reverse | [[ArrayMethods/Reverse.js]]
+
+
 
 *Extra:*
 

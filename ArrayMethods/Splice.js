@@ -4,7 +4,11 @@ const mySplice = (arr, index, remove, ...values) => {
     let endP = []
     let finalArr = []
 
-    if(typeof remove !== "number") return console.log(arr)
+    if (!index || typeof index !== "number") return console.log([])
+    if (typeof remove !== "number") return console.log(arr)
+    if (index > arr.length) index = arr.length
+    if(index < 0) index = index = index + arr.length 
+
     for (let i = 0; i < index; i++) {
         startP[i] = arr[i]
         finalArr[i] = startP[i]
@@ -31,7 +35,7 @@ const mySplice = (arr, index, remove, ...values) => {
 
 const arrTest = [1, 2, 3, 4, 5, 7, 8, 9]
 
-// arrTest.splice(2, 3, "fodase")
+// arrTest.splice(-1, 0, "fodase")
 // console.log(arrTest)
 
-mySplice(arrTest, 2, 4, "fodase", "fodase 2")
+mySplice(arrTest, -2, 0, "fodase", "fodase 2")
