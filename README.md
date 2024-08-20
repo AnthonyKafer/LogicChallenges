@@ -5,7 +5,7 @@
 - [x] Map | [[ArrayMethods/Map.js]]
 - [x] Every | [[ArrayMethods/Every.js]]  
 - [x] Some | [[ArrayMethods/Some.js]]  
-- [ ] Reduce | [[ArrayMethods/Reduce.js]]  
+- [x] Reduce | [[ArrayMethods/Reduce.js]]  
 - [x] Foreach | [[ArrayMethods/Foreach.js]]  
 - [x] Find | [[ArrayMethods/Find.js]]  
 - [x] Pop | [[ArrayMethods/Pop.js]]  
@@ -16,8 +16,6 @@
 - [ ] Sort | [[ArrayMethods/Sort.js]]  
 - [x] Splice | [[ArrayMethods/Splice.js]]  
 - [x] Reverse | [[ArrayMethods/Reverse.js]]
-
-
 
 *Extra:*
 
