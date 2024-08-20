@@ -1,4 +1,4 @@
-# Logic Challenges
+# Logic Challenges:
 
   *Reproduce the following array methods:*
 
@@ -13,11 +13,16 @@
 - [x] Shift | [[ArrayMethods/Shift.js]]  
 - [x] Unshift | [[ArrayMethods/Unshift.js]]  
 - [x] Slice | [[ArrayMethods/Slice.js]]  
-- [ ] Sort | [[ArrayMethods/Sort.js]]  
+- [x] Sort | [[ArrayMethods/Sort.js]]  
 - [x] Splice | [[ArrayMethods/Splice.js]]  
 - [x] Reverse | [[ArrayMethods/Reverse.js]]
 
-*Extra:*
+
+# Recursion:
+
+
+# *Extra:*
+
 
 - [ ] PesquisaBinaria | [[ArrayMethods/PesquisaBinaria.js]]
 
