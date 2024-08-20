@@ -1,26 +1,21 @@
 const mySort = (arr) => {
+  for (let i = 0; i < arr.length; i++) {
+    let minor = i;
 
-    let orderedArr = []
-
-    function searchMinor() {
-        let minor = arr[0]
-
-        for (let i = 0; i < arr.length - 1; i++) {
-            arr[i] < minor ? minor = arr[i] : minor
-        }
+    for (let a = i + 1; a < arr.length; a++) {
+      arr[a] < arr[minor] ? minor = a : minor ;
     }
 
-    for (let i = 0; i < arr.length; i++) {
-        let minus = searchMinor()
-        arr[i] = minus
+    if (i !== minor) {
+      let temp = arr[i]
+      arr [i] = arr[minor]
+      arr[minor] = temp
     }
+  }
+  console.log(arr)
+};
+const arrTest = ['Q', 'M', 'T', 'B', 'X', 'O', 'P', 'L', 'R', 'K', 'F', 'E', 'J', 'S', 'H', 'I', 'A', 'G', 'Y', 'V', 'U', 'N', 'C', 'Z', 'D', 'W'];
+// arrTest.sort();
+// console.log(arrTest);
 
-
-    console.log(orderedArr)
-
-}
-const arrTest = [5, 3, 7, 8, 10, 1, 4, 2, 6, 9]
-
-// console.log(arrTest.sort())
-
-mySort(arrTest)
+mySort(arrTest);
