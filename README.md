@@ -18,6 +18,7 @@ _Reproduce the following array methods:_
 - [x] Reverse | [[ArrayMethods/Reverse.js]]
 
 # Recursion:
+- [ ] Fibonacci | [[Recursion/Fibonacci.js]]
 
 # _Extra:_
 
