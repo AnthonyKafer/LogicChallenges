@@ -11,4 +11,4 @@ const myFibonacci = (x) => {
     print(x)
 }
 
-myFibonacci(25)
+myFibonacci(10)
