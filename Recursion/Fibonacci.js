@@ -1,12 +1,14 @@
 const myFibonacci = (x) => {
-    let n2 = x 
-    let n1 = x
+    function print(x) {
+        let temp = fibo(x);
+        console.log(`A sequência de Fibonacci de ${x} é ${temp}`)
+        console.log(`Esta função levou ${x ** 2} operações`)
+    }
+    function fibo(x) {
+        if (x < 2) return x
+        return fibo(x - 1) + fibo(x - 2)
+    }
+    print(x)
+}
 
-    if(x <= 0) return  
-    console.log(x)
-    
-    x =  n1-1 + n2 - 2
-    myFibonacci(x - 1)
-
-};
-myFibonacci(5)
+myFibonacci(25)
