@@ -15,14 +15,14 @@ _Reproduce the following array methods:_
 - [x] Slice | [[ArrayMethods/Slice.js]]
 - [x] Sort | [[ArrayMethods/Sort.js]]
 - [x] Splice | [[ArrayMethods/Splice.js]]
-- [x] Reverse | [[ArrayMethods/Reverse.js]]
+- [x] Reverse | [[ArrayMethods/Reverse.js]]  
 
-# Recursion:
+## Recursion:
 
 - [x] Fibonacci | [[Recursion/Fibonacci.js]]
 - [x] Fatorial | [[Recursion/Fatorial.js]]
 
-# _Extra:_
+### _Extra:_
 
 - [ ] PesquisaBinaria | [[BinarySearch/BinarySearch.js]]
 
