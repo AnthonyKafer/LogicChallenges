@@ -11,4 +11,4 @@ const myPotentiation = (x, y) => {
     print(x, y)
 }
 
-myPotentiation(2, 10)
+myPotentiation(2, 12)
