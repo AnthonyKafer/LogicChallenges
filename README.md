@@ -21,6 +21,8 @@ _Reproduce the following array methods:_
 
 - [x] Fibonacci | [[Recursion/Fibonacci.js]]
 - [x] Fatorial | [[Recursion/Fatorial.js]]
+- [x] Potentiation | [[Recursion/Potentiation.js]]
+
 
 ### _Extra:_
 
